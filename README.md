@@ -1,5 +1,5 @@
 # Fall Detection Algorithm
 
-![screenshot](documents/screenshot_app.jpeg)
+![screenshot](documentation/screenshot_app.jpeg)
 
 
