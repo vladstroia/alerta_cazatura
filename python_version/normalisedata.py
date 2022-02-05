@@ -1,0 +1,1 @@
+#functii prin care data primitra de l atelefon sau ceas este normalizarta pentru a o putea interpreta
